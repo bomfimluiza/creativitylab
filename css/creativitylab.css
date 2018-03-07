@@ -5,6 +5,7 @@ body{
 
 .navbar{
     padding: 0;
+    box-shadow: 1px 1px 3px 3px #DDDDDD;
 }
 
 .navbar-brand{
