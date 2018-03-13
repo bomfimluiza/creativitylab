@@ -50,6 +50,14 @@ body{
     max-width: 200px;
 }
 
+.alpha-horz{
+    margin-top: 60px;
+}
+
+.alpha-banner img{
+    margin: 0 auto;
+}
+
 .img-subt{
     font-size: 12px;
     font-weight: bold;
